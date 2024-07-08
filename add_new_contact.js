@@ -47,7 +47,7 @@ class AddressBookMain {
     }
 }
 
-// Example usage
+// callinng function
 const addressBookMain = new AddressBookMain();
 addressBookMain.addContact('Harshala', 'Patil', 'Gokul Apartment', 'Panvel', 'MH', '410206', '1234567890', 'harshu@gmail.com');  // Add a new contact
 addressBookMain.showAllContacts();   // Display all contacts
